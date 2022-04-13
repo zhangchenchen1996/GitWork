@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("hello Git3 master");
         System.out.println("hello Git3 hotfix");
         System.out.println("test Github push");
+        System.out.println("这是在Github修改的");
     }
 }
