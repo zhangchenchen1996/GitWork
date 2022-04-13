@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("hello Git");
         System.out.println("hello Git2");
         System.out.println("hello Git3 master");
+        System.out.println("hello Git3 hotfix");
     }
 }
